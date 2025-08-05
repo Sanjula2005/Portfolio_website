@@ -10,15 +10,28 @@
 .resume-btn:hover {
   background-color: #FF00FF;
 }
-.container{
-    display:flex;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    font-family: "Times New Roman", Times, serif;
-    font-weight: 300;
-}
-.h2{
-    font-family: "Times New Roman", Times, serif;
+
+h2{
     font-weight: 700;
+    color: #F9629F;
+}
+
+.d-block{
+    height: 400px;
+    width: 300px;
+}
+.btn{
+    background-color: #F08080;
+  border: none;
+  color: white;
+}
+.btn:hover {
+  background-color: #F9629F;
+}
+h3{
+    font-weight: 800;
+    color: #F9629F;
+}
+#hanging-icons{
+    background-color: #fce4ec ;
 }
