@@ -1,0 +1,24 @@
+.resume-btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color:#F9629F;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+}
+.resume-btn:hover {
+  background-color: #FF00FF;
+}
+.container{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 300;
+}
+.h2{
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 700;
+}
